@@ -1,0 +1,23 @@
+.trash {
+    margin-left: 100px;
+}
+
+.card-body {
+    /* margin-left: 90px; */
+    display: flex;
+    gap: 22px;
+    flex-wrap: wrap;
+    background-color: antiquewhite;
+}
+
+.card {
+    background-color: burlywood;
+}
+
+.reciper-form {
+    margin-bottom: 50px;
+}
+
+.editar {
+    margin-left: 100px;
+}
